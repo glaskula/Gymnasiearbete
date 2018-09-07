@@ -14,7 +14,7 @@ public class Main extends JFrame implements KeyListener{
 
 	    public void update(){
 	    }
-
+  
 	    public void render(){
 	    }
 
